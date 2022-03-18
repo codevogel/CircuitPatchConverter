@@ -15,6 +15,8 @@ Step by step example:
 4. Launch the script using `python circuit-convert.py -i ./Packs/example.circuittrackspack` 
 5. Find your newly converted patches in `someDir\CircuitPatchConverter\Patches`
 
+**Please note:** this program will overwrite existing `.syx` files in the output folder. If you are converting multiple packs one by one, be sure to alter the output directory using the `-o` option.
+
 Usage:
 
 `python circuit-convert.py -i <inputfile> \[-o <outputfile> -p <pathinzip> -h <help>\]`

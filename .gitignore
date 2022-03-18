@@ -127,8 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-
-# Ignore pack and patches directories
-Packs/
-Patches/
