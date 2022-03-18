@@ -6,7 +6,7 @@ It does this by altering the 5th hexadecimal value from `64` to `60`.
 
 By Kamiel de Visser (you can buy me a coffee [here](https://www.paypal.com/donate/?business=BXNPFUTTJF25G&no_recurring=0&item_name=Here+you+can+supply+my+everlasting+quest+for+cafe%C3%AFne+%3A%29&currency_code=EUR), or scan the following QR :D).
 
-![QR](./donate/QR.png)
+![QR](./.donate/QR.png)
 
 Requirements: 
 1. Python 3.6+
