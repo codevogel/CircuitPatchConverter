@@ -11,6 +11,7 @@ Step by step example:
 1. Clone this repository or download it as a .zip
 2. (Extract zip to a directory)
 3. Put your .circuittrackspack files in a folder called 'Packs' (like `someDir\CircuitPatchConverter\Packs`)
+4. Open your favourite console that supports python and navigate (using `cd`) to `someDir\CircuitPatchConverter\` 
 4. Launch the script using `python circuit-convert.py -i ./Packs/example.circuittrackspack` 
 5. Find your newly converted patches in `someDir\CircuitPatchConverter\Patches`
 
