@@ -27,7 +27,7 @@ Usage:
 
 | short | long        | name               | description                                                 | default    |
 |-------|-------------|--------------------|-------------------------------------------------------------|------------|
-| -i    | --input     | <input file>       | The file path of the .circuittrackspack or .zip to extract. | N/A        |
-| -o    | --output    | <output file>      | The path of the folder to extract the converted patches to. | ./Patches/ |
-| -p    | --pathinzip | <path in zip file> | Path to folder in the zip file that contains the patches.   | patches/   |
-| -h    | --help      | <help>             | Shows the help message.                                     | N/A        |
+| -i    | --input     | input file         | The file path of the .circuittrackspack or .zip to extract. | N/A        |
+| -o    | --output    | output file        | The path of the folder to extract the converted patches to. | ./Patches/ |
+| -p    | --pathinzip | path in zip file   | Path to folder in the zip file that contains the patches.   | patches/   |
+| -h    | --help      | help               | Shows the help message.                                     | N/A        |
